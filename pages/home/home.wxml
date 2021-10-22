@@ -1,0 +1,6 @@
+<!--pages/home/home.wxml-->
+<view class="container">
+  <text>A页面</text>
+  <view class="butotnStyle" bindtap="goNavigateTo">保留当前页面--跳转页面</view>
+  <view class="butotnStyle" bindtap="goRedirectTo">关闭当前页面--跳转页面</view>
+</view>

@@ -1,0 +1,11 @@
+/* pages/home/home.wxss */
+.butotnStyle {
+  width:600rpx;
+  height: 80rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ecebeb;
+  border-radius: 8rpx;
+  margin-top: 80rpx;
+}

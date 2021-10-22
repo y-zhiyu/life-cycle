@@ -1,0 +1,5 @@
+<!--pages/test/test.wxml-->
+
+<view class="container"> 
+  <text>B页面</text>
+</view>
